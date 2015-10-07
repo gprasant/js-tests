@@ -1,0 +1,14 @@
+{
+  "name": "js-tests",
+  "version": "1.0.0",
+  "description": "all the js test frameworks ",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testem": "^0.9.1"
+  }
+}
